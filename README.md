@@ -130,11 +130,6 @@ Setup environment (python):
     jupyter lab
     ```
 
-## Business Dashboard
-
-!["Section 1"](./business%20dashboard/business%20dashboard_1.png)
-!["Section 2"](./business%20dashboard/business%20dashboard_2.png)
-
 Dashboard Key Features:
 
 - Interactive Filter:
